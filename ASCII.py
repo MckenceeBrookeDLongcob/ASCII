@@ -1,5 +1,5 @@
 #import pyfiglet module
 import pyfiglet
 
-result = pyfiglet.figlet_format(text="Mckencee", colors="RED")
+result = pyfiglet.figlet_format("Mckencee")
 print(result)
